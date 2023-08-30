@@ -70,7 +70,6 @@
     ],
     "materials" : [
         {
-            "alphaMode" : "BLEND",
             "doubleSided" : true,
             "name" : "Canu colors",
             "pbrMetallicRoughness" : {
